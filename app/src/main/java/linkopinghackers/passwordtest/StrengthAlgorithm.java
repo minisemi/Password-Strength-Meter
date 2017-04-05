@@ -1,7 +1,7 @@
-package aleul850.passwordstrengthmeter;
+package linkopinghackers.passwordtest;
 
 /**
- * Created by Bauws on 2015-01-16.
+ * Created by Alexander on 2016-11-10.
  */
 public class StrengthAlgorithm {
     int _strength;

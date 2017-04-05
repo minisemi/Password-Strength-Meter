@@ -1,4 +1,4 @@
-package aleul850.passwordstrengthmeter;
+package linkopinghackers.passwordtest;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

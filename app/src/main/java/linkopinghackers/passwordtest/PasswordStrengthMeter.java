@@ -1,5 +1,8 @@
-package aleul850.passwordstrengthmeter;
+package linkopinghackers.passwordtest;
 
+/**
+ * Created by Alexander on 2016-11-10.
+ */
 import android.content.Context;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
